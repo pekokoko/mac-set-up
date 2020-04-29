@@ -9,6 +9,9 @@ default.sh
 前の入力ソースを選択 を ⌘スペース
 SpotlightnのSpotlight検索を表示を ^スペース
 
+Finder->環境設定->サイドバー
+最近使ったタグ意外にチェックを入れる
+
 三本指ドラッグ
 https://support.apple.com/ja-jp/HT204609
 

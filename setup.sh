@@ -85,6 +85,11 @@ fi
 # setup dotfiles
 ###################################
 
+git clone git clone https://github.com/pekokoko/dotfiles.git ~/dotfiles
+cp ~/dotfiles/install.sh ~/install.sh
+~/install.sh
+
+
 ###################################
 # Installing Python
 ###################################
